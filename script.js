@@ -3,7 +3,7 @@ const h1 ={
   targets :'h1',
   scale: 1.5,
 }
-anime(h1)
+anime(h1);
 
 
 const img = {
@@ -13,7 +13,7 @@ const img = {
   duration: 10000,
 }
 
-anime(img)
+anime(img);
 
   const line ={
     targets: 'line',
